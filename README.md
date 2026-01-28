@@ -12,6 +12,7 @@
    Дополнительно можно указать опции
    * -o /some/path задает путь для результатов
    * -p задает префикс имен выходных файлов
+   
    Например,
    * -o /some/path -p result_ задают вывод в файлы/some/path/result_integers.txt, /some/path/result_floats.txt, /some/path/result_strings.txt
    
