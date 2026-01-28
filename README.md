@@ -9,6 +9,7 @@
 
 4. Пример запуска утилиты
    * java -jar FileContentFilteringService.jar -s -a -p sample- in1.txt in2.txt
+   
    Дополнительно можно указать опции
    * -o /some/path задает путь для результатов
    * -p задает префикс имен выходных файлов
